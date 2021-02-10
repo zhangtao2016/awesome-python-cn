@@ -928,13 +928,16 @@ Python 实现的数据库。
 进行数据可视化的库。 参见: [awesome-javascript](https://github.com/sorrycc/awesome-javascript#data-visualization)。
 
 *   matplotlib: 一个 Python 2D 绘图库。[官网](http://matplotlib.org/)
+*   altair: 用 Python 进行交互式 web 绘图。[官网](https://altair-viz.github.io/)
 *   bokeh: 用 Python 进行交互式 web 绘图。[官网](https://github.com/bokeh/bokeh)
 *   ggplot: ggplot2 给 R 提供的 API 的 Python 版本。[官网](https://github.com/yhat/ggplot)
 *   plotly: 协同 Python 和 matplotlib 工作的 web 绘图库。[官网](https://plot.ly/python/)
+*   dash: 基于plotly的交互式可视化工具。[官网](http://dash.plotly.com/)
 *   pyecharts: 基于百度 Echarts 的数据可视化库。[官网](https://github.com/chenjiandongx/pyecharts)
 *   pygal: 一个 Python SVG 图表创建工具。[官网](http://www.pygal.org/en/latest/)
 *   pygraphviz: Graphviz 的 Python 接口。[官网](https://pypi.python.org/pypi/pygraphviz)
 *   PyQtGraph: 交互式实时 2D/3D/ 图像绘制及科学/工程学组件。[官网](http://www.pyqtgraph.org/)
+*   seaborn: 基于matplotlib工作的绘图库。[官网](https://seaborn.pydata.org/)
 *   SnakeViz: 一个基于浏览器的 Python's cProfile 模块输出结果查看工具。[官网](http://jiffyclub.github.io/snakeviz/)
 *   vincent: 把 Python 转换为 Vega 语法的转换工具。[官网](https://github.com/wrobstory/vincent)
 *   VisPy: 基于 OpenGL 的高性能科学可视化工具。[官网](http://vispy.org/)
